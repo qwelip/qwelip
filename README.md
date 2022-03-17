@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 
 ### Контакты
-:email: email andmed20@yandex.ru
-:envelope: telegram a_medkov
+- :email: email andmed20@yandex.ru
+- :envelope: telegram a_medkov
