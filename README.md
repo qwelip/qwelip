@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :raised_hand: Приветствую тебя на своей аккакунте :raised_hand:
+### :raised_hand: Приветствую тебя на своем аккакунте :guitar:
+
+
+# Контакты
+:email: email andmed20@yandex.ru
+:envelope: telegram a_medkov
