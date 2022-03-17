@@ -1,6 +1,7 @@
-### Hi there 👋
+
 
 <!--
+### Hi there 👋
 **qwelip/qwelip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :raised_hand: Приветствую тебя на своем аккакунте :guitar:
+# :raised_hand: Приветствую тебя на своем аккакунте :guitar:
 
 
-# Контакты
+### Контакты
 :email: email andmed20@yandex.ru
 :envelope: telegram a_medkov
