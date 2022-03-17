@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# :raised_hand: Приветствую тебя на своем аккакунте :guitar:
+# :raised_hand: Приветствую на своем аккакунте :guitar:
+
+Я фронтэнд разработчик. Работаю на стэке JS, React
+
 
 
 ### Контакты
