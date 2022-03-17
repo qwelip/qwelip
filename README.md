@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-:smile:
+:raised_hand: Приветствую тебя на своей аккакунте :raised_hand:
