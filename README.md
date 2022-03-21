@@ -20,11 +20,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 </div>
 
-# :raised_hand: Приветствую на своем аккакунте :guitar:
+# :raised_hand: Приветствую вас на своем аккакунте :guitar:
 
 ### Я фронтэнд разработчик JS, React.
 
-⚡ В данный момент ищу работу на должность разработчика. 
+⚡ В данный момент ищу работу на должность разработчика. ⚡
 
 ### Если в двух словах о себе
 * любознательный и целеустремленный
