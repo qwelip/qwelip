@@ -22,15 +22,25 @@ Here are some ideas to get you started:
 
 # :raised_hand: Приветствую на своем аккакунте :guitar:
 
-Я фронтэнд разработчик. 
-Cтэк JS, React.
+### Я фронтэнд разработчик JS, React.
 
-Так же есть небольшой опыт работы с фреймворком Express
+⚡ В данный момент ищу работу на должность разработчика. 
 
-В моем профиле можно посмотреть примеры моих работ
+### Если в двух словах о себе
+* любознательный и целеустремленный
+* люблю развиваться во фронтэнде
+* сидеть и копаться в коде, разбираться - это мое
+
+### Контакты
+- :email: email andmed20@yandex.ru
+- :envelope: telegram a_medkov
+
+-------
+В моем профиле можно посмотреть примеры работ
 
 
 ### Навыки
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -41,12 +51,9 @@ Cтэк JS, React.
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-  
 </div>
 
-### Контакты
-- :email: email andmed20@yandex.ru
-- :envelope: telegram a_medkov
+
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qwelip&theme=dark&background=000000)](https://git.io/streak-stats)
