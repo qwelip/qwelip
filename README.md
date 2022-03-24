@@ -20,20 +20,11 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
 </div>
 
-# :raised_hand: Приветствую вас на своем аккакунте :guitar:
+# :raised_hand: Привет!
 
-### Я фронтэнд разработчик JS, React.
+### Я front-end разработчик (React).
 
 ⚡ В данный момент ищу работу на должность разработчика. ⚡
-
-### Если в двух словах о себе
-* любознательный и целеустремленный
-* люблю развиваться во фронтэнде
-* сидеть и копаться в коде, разбираться - это мое
-
-### Контакты
-- :email: email andmed20@yandex.ru
-- :envelope: telegram a_medkov
 
 -------
 В моем профиле можно посмотреть примеры работ
@@ -58,6 +49,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qwelip&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwelip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Контакты
+- :email: email andmed20@yandex.ru
+- :envelope: telegram a_medkov
 
 
 
