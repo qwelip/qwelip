@@ -16,23 +16,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
+</div> -->
+
+<div id="header" align="center">
+  <h1>:raised_hand: Привет!</h1>
+
+  <h2>Я front-end разработчик (React).</h2>
+  <h3>
+    ⚡ В данный момент ищу работу на должность разработчика. ⚡ 
+  </h3>
+
+  <h4>В моем профиле можно посмотреть примеры работ</h4>
+  
 </div>
 
-# :raised_hand: Привет!
-
-### Я front-end разработчик (React).
-
-⚡ В данный момент ищу работу на должность разработчика. ⚡
-
--------
-В моем профиле можно посмотреть примеры работ
 
 
-### Навыки
-
-<div>
+<div id="header" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
@@ -45,9 +47,17 @@ Here are some ideas to get you started:
 </div>
 
 
+-------
+
+
+
+<!-- ### Навыки -->
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=qwelip&theme=dark&background=000000)](https://git.io/streak-stats)
+
+-------
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qwelip&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
