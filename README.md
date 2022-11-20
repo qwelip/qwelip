@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 <!-- <div id="header" align="center">
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="100"/>
+### ⚡ В данный момент ищу работу на должность разработчика. ⚡ 
 </div> -->
 
 
 # :raised_hand: Привет!
 
 ### Я front-end разработчик (React).
-
-### ⚡ В данный момент ищу работу на должность разработчика. ⚡ 
 
 ### В моем профиле можно посмотреть примеры работ.
   
